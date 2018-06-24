@@ -1,6 +1,6 @@
 # vueapp001
 
-> a example for learing vue-cli
+> an example for learing vue-cli
 
 ## Build Setup
 
